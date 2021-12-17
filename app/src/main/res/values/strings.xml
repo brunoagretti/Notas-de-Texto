@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecordApp</string>
+    <string name="recordatorios_creados">Recordatorios creados</string>
+    <string name="escriba_su_recordatorio_aqu">Escriba su recordatorio aquí</string>
+    <string name="crear_nuevo_recordatorio">Crear nuevo recordatorio</string>
+    <string name="elija_una_fecha">Elija una fecha...</string>
+    <string name="elegir">Elegir</string>
+    <string name="crear_recordatorio">Crear recordatorio</string>
+    <string name="new_notification">¡Recordatorio! No olvides: </string>
+</resources>
